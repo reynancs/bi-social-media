@@ -12,14 +12,13 @@ Conhecimento Adquiridos:
 - Tratamento dos dados (Linguagem M)
 - Relacionamentos das Tabelas;
 - Criação de Métricas utilizando Linguagem DAX;
-- Visualização de Dados (Power BI)
+- Visualização de Dados (Power BI);
+- Figma UX;
 
 
 ## :pushpin: Descrição
 Olá a todos, este foi meu primeiro projeto após 3 meses de estudos envolvendo Power BI e Social Media, realizado em abr/21. 
-A cliente vinha tendo dificuldades de medir o desempenho das suas postagens do seu E-commerce de Quadros Personalizados @deodorioshome e também gostaria de montar 
-uma campanha de tráfego pago personalizadda com base no histórico dos seus pedidos. Um trabalho que envolveu desde: Criação de Personas; Classificação dos produtos 
-até mesmo definir métricas para avaliar o desempenho e definir quais variáveis serão utilizadas para campanha do tráfego pago.
+A cliente vinha tendo dificuldades de medir o desempenho das suas postagens do seu E-commerce de Quadros Personalizados @deodorioshome e também gostaria de montar uma campanha de tráfego pago personalizadda com base no histórico dos seus pedidos. Um trabalho que envolveu desde: Criação de Personas; Classificação dos produtos até mesmo definir métricas para avaliar o desempenho e definir quais variáveis serão utilizadas para campanha do tráfego pago.
 
 
 
