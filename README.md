@@ -1,5 +1,8 @@
 # Dashboard de Social Media
 
+![Página 01 - Instagram Insights](https://user-images.githubusercontent.com/97552106/209826761-892fc067-372d-42ae-a6d3-11a79495bb92.png)
+
+
 
 ## :dart: Objetivo
 O Objetivo deste trabalho realizado foi desenvolver habilidades de DATA ANALYTICS aplicado á um case de SOCIAL MEDIA, utilizando API para ingestão de dados, 
@@ -20,6 +23,8 @@ Conhecimento Adquiridos:
 Olá a todos, este foi meu primeiro projeto após 3 meses de estudos envolvendo Power BI e Social Media, realizado em abr/21. 
 A cliente vinha tendo dificuldades de medir o desempenho das suas postagens do seu E-commerce de Quadros Personalizados @deodorioshome e também gostaria de montar uma campanha de tráfego pago personalizadda com base no histórico dos seus pedidos. Um trabalho que envolveu desde: Criação de Personas; Classificação dos produtos até mesmo definir métricas para avaliar o desempenho e definir quais variáveis serão utilizadas para campanha do tráfego pago.
 
+Pag01 - Refere-se ao Instagram Insights (Tráfego Orgânico)
+Pag02 - Refere-se ao facebook ADS (Tráfego Pago)
 
 
 ## :computer: Como rodar a aplicação
